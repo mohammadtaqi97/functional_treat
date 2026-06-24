@@ -29,6 +29,12 @@ How to Run
 2. Save the file as "data_analyser.py"
 3. Run:
    python data_analyser.py
+
+https://github.com/user-attachments/assets/92e164e7-cadc-4296-b1b7-6656a69ffa73
+
+
+
+
 4. Select menu options and enter values.
 
 Example Output
